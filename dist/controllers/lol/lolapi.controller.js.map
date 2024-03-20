@@ -1,0 +1,1 @@
+{"version":3,"file":"lolapi.controller.js","sourceRoot":"","sources":["../../../src/controllers/lol/lolapi.controller.ts"],"names":[],"mappings":";;;;;;;;;;;;AAEO,MAAM,SAAS,GAAG,CAAO,IAAa,EAAE,GAAa,EAAE,EAAE;IAC9D,MAAM,IAAI,GAAG;QACX,GAAG,EAAE,MAAM;KACZ,CAAC;IACF,GAAG,CAAC,IAAI,CAAC,IAAI,CAAC,CAAC,MAAM,CAAC,GAAG,CAAC,CAAC;AAC7B,CAAC,CAAA,CAAC;AALW,QAAA,SAAS,aAKpB"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"baseapi.controller.js","sourceRoot":"","sources":["../../src/controllers/baseapi.controller.ts"],"names":[],"mappings":";;;;;;;;;;;;AAEO,MAAM,UAAU,GAAG,CAAO,IAAa,EAAE,GAAa,EAAE,EAAE;IAC/D,MAAM,IAAI,GAAG;QACX,GAAG,EAAE,MAAM;KACZ,CAAC;IACF,GAAG,CAAC,IAAI,CAAC,IAAI,CAAC,CAAC,MAAM,CAAC,GAAG,CAAC,CAAC;AAC7B,CAAC,CAAA,CAAC;AALW,QAAA,UAAU,cAKrB"}
